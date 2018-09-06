@@ -15,7 +15,7 @@
 	<lastModifiedDate_dt>2018-09-06T20:01:20.872Z</lastModifiedDate_dt>
 	<title>Editorial</title>
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
-	<hero_title>&lt;h1&gt;MY CHANGE HERE&lt;/h1&gt;
+	<hero_title>&lt;h1&gt;MY CHANGE HERE ANOTHER CHANGE&lt;/h1&gt;
 &lt;h1&gt;by HTML5 UP&lt;/h1&gt;</hero_title>
 	<features item-list="true">	<item>	<value>Two</value>
 	<key>/site/components/features/quam-lorem-ipsum.xml</key>
